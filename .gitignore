@@ -112,3 +112,8 @@ exports
 *.cache
 build
 .strapi-updater.json
+/.editorconfig
+/.env.example
+/public/uploads/.gitkeep
+/src/extensions/documentation/documentation/1.0.0/full_documentation.json
+/package-lock.json
