@@ -13,12 +13,12 @@
   "dependencies": {
     "@_sh/strapi-plugin-ckeditor": "^1.0.9",
     "@notum-cz/strapi-plugin-content-versioning": "^0.4.1",
-    "@strapi/plugin-documentation": "^4.1.9",
-    "@strapi/plugin-i18n": "4.1.9",
-    "@strapi/plugin-users-permissions": "4.1.9",
-    "@strapi/strapi": "4.1.9",
+    "@strapi/plugin-documentation": "^4.1.11",
+    "@strapi/plugin-i18n": "4.1.11",
+    "@strapi/plugin-users-permissions": "4.1.11",
+    "@strapi/strapi": "4.1.11",
     "force": "0.0.3",
-    "pg": "8.6.0",
+    "pg": "8.7.3",
     "strapi-plugin-comments": "^2.1.5",
     "strapi-plugin-entity-relationship-chart": "^4.1.0"
   },
